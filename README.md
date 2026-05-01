@@ -1,16 +1,30 @@
-## Hi there 👋
+# Aniruddh Pandey
 
-<!--
-**PandeyAniruddh/PandeyAniruddh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student. Building toward quantitative finance.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+- Computer Science student with a knack for Finance Mathematics
+- Comfortable with structured problem-solving and systems thinking
+- Strong written communication, both technical and general
+- Detail-oriented; care about clean structure in code and documents
+
+---
+
+### Currently Learning
+
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,notion)](https://skillicons.dev)
+
+---
+
+### Connect
+
+<a href="https://www.linkedin.com/in/aniruddhpandey02">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="35" height="35"/>
+</a>
+
+---
+
+> [!IMPORTANT]  
+> <a href="" download>Download my resume</a>
